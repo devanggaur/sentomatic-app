@@ -1,0 +1,7 @@
+*.pyc
+staticfiles
+.env
+db.sqlite3
+Lib/
+Scripts/
+Include/

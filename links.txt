@@ -1,0 +1,16 @@
+gcloud config set project [PROJECT_NAME]
+
+
+https://roytuts.com/python-flask-rest-api-file-upload/
+
+https://sentomatic-app.wl.r.appspot.com/api/v1/resources/sentiments/audio/
+
+https://sentoml-test.wn.r.appspot.com/api/v1/resources/sentiments/all/
+
+https://medium.com/@dmahugh_70618/deploying-a-flask-app-to-google-app-engine-faa883b5ffab
+
+Creating a virtual env -
+
+python -m venv sentomatic
+
+https://sentomatic.wl.r.appspot.com/api/v1/resources/sentiments/all/
